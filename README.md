@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RifazAli
+- 👋 Hi, I’m @rifaz124
 - 👀 I’m interested in programming like python
 - 🌱 I’m currently learning 1st year engineering CSE branch
 - 💞️ I’m looking to collaborate on ...
